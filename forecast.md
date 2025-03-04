@@ -6,4 +6,4 @@ Cloudy with a chance of pizza.
 
 ## Tomorrow
 
-Morning rainblows followed by light showers.
+Morning rainbows followed by light sun.
